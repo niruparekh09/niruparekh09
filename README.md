@@ -14,8 +14,12 @@
 </div>
 
 #### 💻 &nbsp; About Me :
+
 I am a Full Stack Developer and a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- I am Profiecient in tools like Spring Boot, Spring Security, .NET, Hibernate, NodeJs 
+
+- I am Profiecient in tools like Spring Boot, Spring Security, .NET, Hibernate, NodeJs
+- I use languages like Java, JavaScript, C#
+- I have also completed by Post Graduation Diploma In Advanced Computing From ATCS, CDAC, Pune
 
 #### :fire: My Stats :
 
@@ -27,6 +31,7 @@ I am a Full Stack Developer and a Tech Enthusiast <img src="https://media.giphy.
 </a>
 
 #### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -42,4 +47,3 @@ I am a Full Stack Developer and a Tech Enthusiast <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
