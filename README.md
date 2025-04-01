@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h2> Hi 👋 I'm Nirav Parekh.</h2>
   <div id="badges">
-    <a href="https://www.linkedin.com/in/nirav-parekh-2b3310197/">
+    <a href="https://www.linkedin.com/in/niravparekh090/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/niruparekh09">
